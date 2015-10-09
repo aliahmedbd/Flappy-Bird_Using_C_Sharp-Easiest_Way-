@@ -1,0 +1,18 @@
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csprojResolveAssemblyReference.cache
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Form1.resources
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.Cache
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
+c:\users\ali ahmed\documents\visual studio 2015\Projects\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Action.resources
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Action.resources
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Form1.resources
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Ali Ahmed\Desktop\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.Cache
